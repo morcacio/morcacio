@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @morcacio
-- 👀 I’m interested in programming and writing
-- 🌱 I’m currently learning Python and web develoment
-- 💞️ I’m looking to collaborate on any programming project
-- 📫 How to reach me? email me at mawinoochieng@gmail.com and i will respond
+- 👀 I’m interested in data Analysis
+- 🌱 I’m currently learning data analysis using SQL
+- 💞️ I’m looking to collaborate on any data analysis project
+- 📫 How to reach me? Email me at mawinoochieng@gmail.com and I will respond
 
 <!---
 morcacio/morcacio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
